@@ -12,11 +12,4 @@ The requirements for a username are:
 * It must start with a lower case letter
 * It must contain at least three but no more than 12 characters
 
-Copy the **zip.sh** file to a file named **username.sh**
-Edit the **username.sh** file so that it:
-* Contains your name as the author
-* Contains the correct name of the file
-* Displays the rules to the user
-* Prompts to user to type a username
-* Checks to see if the string typed by the user obeys the rules.
-* Prompts the user to try again if it does not.
+This repo contains a completed **username.sh** bash script that checks whether a string is a valid username following the requirements above.
